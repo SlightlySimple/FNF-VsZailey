@@ -1,0 +1,12 @@
+{
+	"textPosition": [240, 460],
+	"textSize": 32,
+	"font": "VCR OSD Mono",
+	"textColor": "gray",
+	"dropShadowColor": "black",
+	"dropShadowOffset": 2,
+	"dialogueSpeed": 0.04,
+	"p1Offset": [0, 0],
+	"p2Offset": [250, -50],
+	"gfOffset": [-180, -40]
+}

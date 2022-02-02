@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zaileyDanceTitle.png">
+<SubTexture name="Zailey Head Bop0000" x="0" y="0" width="698" height="754" frameX="-2" frameY="-32" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0001" x="698" y="0" width="703" height="754" frameX="0" frameY="-32" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0002" x="1401" y="0" width="703" height="749" frameX="0" frameY="-37" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0003" x="2104" y="0" width="698" height="749" frameX="-2" frameY="-37" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0004" x="2802" y="0" width="698" height="753" frameX="-2" frameY="-33" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0005" x="0" y="758" width="698" height="753" frameX="-2" frameY="-33" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0006" x="698" y="758" width="698" height="761" frameX="-2" frameY="-25" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0007" x="1396" y="758" width="698" height="775" frameX="-2" frameY="-11" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0008" x="1396" y="758" width="698" height="775" frameX="-2" frameY="-11" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0009" x="2094" y="758" width="698" height="775" frameX="-2" frameY="-11" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0010" x="2792" y="758" width="698" height="777" frameX="-2" frameY="-9" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0011" x="0" y="1539" width="698" height="777" frameX="-2" frameY="-9" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0012" x="0" y="1539" width="698" height="777" frameX="-2" frameY="-9" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0013" x="698" y="1539" width="698" height="780" frameX="-2" frameY="-6" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0014" x="698" y="1539" width="698" height="780" frameX="-2" frameY="-6" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0015" x="1396" y="1539" width="698" height="784" frameX="-2" frameY="-2" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0016" x="2094" y="1539" width="703" height="784" frameX="0" frameY="-2" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0017" x="2797" y="1539" width="703" height="785" frameX="0" frameY="-1" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0018" x="0" y="2328" width="698" height="785" frameX="-2" frameY="-1" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0019" x="698" y="2328" width="698" height="785" frameX="-2" frameY="-1" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0020" x="1396" y="2328" width="698" height="785" frameX="-2" frameY="-1" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0021" x="2094" y="2328" width="698" height="780" frameX="-2" frameY="-6" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0022" x="2792" y="2328" width="698" height="776" frameX="-2" frameY="-10" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0023" x="2792" y="2328" width="698" height="776" frameX="-2" frameY="-10" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0024" x="0" y="3117" width="698" height="776" frameX="-2" frameY="-10" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0025" x="698" y="3117" width="698" height="774" frameX="-2" frameY="-12" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0026" x="1396" y="3117" width="698" height="774" frameX="-2" frameY="-12" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0027" x="1396" y="3117" width="698" height="774" frameX="-2" frameY="-12" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0028" x="2094" y="3117" width="698" height="772" frameX="-2" frameY="-14" frameWidth="703" frameHeight="786"/>
+<SubTexture name="Zailey Head Bop0029" x="2094" y="3117" width="698" height="772" frameX="-2" frameY="-14" frameWidth="703" frameHeight="786"/>
+</TextureAtlas>

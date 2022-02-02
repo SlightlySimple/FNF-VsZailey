@@ -1,0 +1,16 @@
+{
+	"asset": "Zailey",
+	"barColor": "#2C253B",
+	"position": [0, 150],
+	"camPosition": [300, -50],
+	"startingAnim": "idle",
+	"animations": [
+		{ "name": "idle", "prefix": "Zailey Idle", "offsets": [0, 0] },
+		{ "name": "singUP", "prefix": "Zailey Up", "offsets": [32, -23] },
+		{ "name": "singLEFT", "prefix": "Zailey Left", "offsets": [99, -91] },
+		{ "name": "singRIGHT", "prefix": "Zailey Right", "offsets": [-67, -15] },
+		{ "name": "singDOWN", "prefix": "Zailey Down", "offsets": [166, -5] },
+		{ "name": "singLEFT-alt", "prefix": "Zailey Right", "offsets": [-67, -15] },
+		{ "name": "singRIGHT-alt", "prefix": "Zailey Right", "offsets": [-67, -15] }
+	]
+}

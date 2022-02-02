@@ -1,0 +1,125 @@
+{
+	"camZoom": 0.75,
+	"camPos": [720, 360],
+	"bfPos": [970, 0],
+	"gfPos": [730, 240],
+	"dadPos": [100, 0],
+	"pieces": [
+		{
+			"type": "static",
+			"image": "sky",
+			"position": [-250, -130],
+			"scale": [1.35, 1.35],
+			"scrollFactor": [0.1, 0.1]
+		},
+		{
+			"type": "static",
+			"image": "ground",
+			"position": [-600, 250],
+			"scale": [2, 2],
+			"scrollFactor": [0.9, 0.9]
+		},
+		{
+			"type": "static",
+			"image": "backgroundTreesGray",
+			"position": [-300, 80],
+			"scrollFactor": [0.35, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "backgroundTrees",
+			"position": [-300, 65],
+			"scrollFactor": [0.5, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "treeC",
+			"position": [200, 75],
+			"scrollFactor": [0.7, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "treeB",
+			"position": [850, 65],
+			"scrollFactor": [0.7, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "treeA",
+			"position": [1100, 50],
+			"scrollFactor": [0.7, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "treeA",
+			"position": [-400, 50],
+			"scrollFactor": [0.8, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "treeB",
+			"position": [-50, 65],
+			"scrollFactor": [0.8, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "treeD",
+			"position": [600, 10],
+			"scrollFactor": [0.8, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "treeD",
+			"position": [1450, 10],
+			"scrollFactor": [0.8, 0.8]
+		},
+		{
+			"type": "static",
+			"image": "fence",
+			"position": [-455, 350],
+			"scrollFactor": [0.85, 0.85]
+		},
+		{
+			"type": "static",
+			"image": "fence",
+			"position": [-95, 350],
+			"scrollFactor": [0.85, 0.85]
+		},
+		{
+			"type": "static",
+			"image": "fence",
+			"position": [265, 350],
+			"scrollFactor": [0.85, 0.85]
+		},
+		{
+			"type": "static",
+			"image": "fence",
+			"position": [625, 350],
+			"scrollFactor": [0.85, 0.85]
+		},
+		{
+			"type": "static",
+			"image": "fence",
+			"position": [985, 350],
+			"scrollFactor": [0.85, 0.85]
+		},
+		{
+			"type": "static",
+			"image": "fence",
+			"position": [1345, 350],
+			"scrollFactor": [0.85, 0.85]
+		},
+		{
+			"type": "static",
+			"image": "fence",
+			"position": [1705, 350],
+			"scrollFactor": [0.85, 0.85]
+		},
+		{
+			"type": "static",
+			"image": "bench",
+			"position": [655, 300],
+			"scrollFactor": [0.95, 0.95]
+		}
+	]
+}
